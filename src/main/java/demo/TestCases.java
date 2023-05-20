@@ -36,8 +36,11 @@ public class TestCases {
     
     public  void testCase01(){
         System.out.println("Start Test case: testCase");
-        SearchAmazon sa = new SearchAmazon();
-        sa.searchAmazon();
+        // SearchAmazon sa = new SearchAmazon();
+        // sa.searchAmazon();
+
+        BookMyShowCountHyperlink bscp = new BookMyShowCountHyperlink();
+        bscp.bookMyShowCountHyperlink();
         System.out.println("end Test case: testCase");
     }
 
