@@ -39,8 +39,11 @@ public class TestCases {
         // SearchAmazon sa = new SearchAmazon();
         // sa.searchAmazon();
 
-        BookMyShowCountHyperlink bscp = new BookMyShowCountHyperlink();
-        bscp.bookMyShowCountHyperlink();
+        // BookMyShowCountHyperlink bscp = new BookMyShowCountHyperlink();
+        // bscp.bookMyShowCountHyperlink();
+
+        LinkedInTextPost litp = new LinkedInTextPost();
+        litp.linkedInTextPost();
         System.out.println("end Test case: testCase");
     }
 
