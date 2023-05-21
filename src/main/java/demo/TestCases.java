@@ -48,8 +48,11 @@ public class TestCases {
         // SearchNameOnGoogle snog = new SearchNameOnGoogle();
         // snog.searchNameOnGoogle();
 
-        NestedFrames nf = new NestedFrames();
-        nf.nestedFrames();
+        // NestedFrames nf = new NestedFrames();
+        // nf.nestedFrames();
+
+        AlertPrompt ap = new AlertPrompt();
+        ap.alertPrompt();
 
         System.out.println("end Test case: testCase");
     }
