@@ -51,8 +51,11 @@ public class TestCases {
         // NestedFrames nf = new NestedFrames();
         // nf.nestedFrames();
 
-        AlertPrompt ap = new AlertPrompt();
-        ap.alertPrompt();
+        // AlertPrompt ap = new AlertPrompt();
+        // ap.alertPrompt();
+
+        IMDBRating ir = new IMDBRating();
+        ir.imdbRating();
 
         System.out.println("end Test case: testCase");
     }
