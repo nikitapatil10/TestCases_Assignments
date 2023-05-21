@@ -42,8 +42,12 @@ public class TestCases {
         // BookMyShowCountHyperlink bscp = new BookMyShowCountHyperlink();
         // bscp.bookMyShowCountHyperlink();
 
-        LinkedInTextPost litp = new LinkedInTextPost();
-        litp.linkedInTextPost();
+        // LinkedInTextPost litp = new LinkedInTextPost();
+        // litp.linkedInTextPost();
+
+        SearchNameOnGoogle snog = new SearchNameOnGoogle();
+        snog.searchNameOnGoogle();
+        
         System.out.println("end Test case: testCase");
     }
 
