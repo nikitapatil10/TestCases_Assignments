@@ -45,9 +45,12 @@ public class TestCases {
         // LinkedInTextPost litp = new LinkedInTextPost();
         // litp.linkedInTextPost();
 
-        SearchNameOnGoogle snog = new SearchNameOnGoogle();
-        snog.searchNameOnGoogle();
-        
+        // SearchNameOnGoogle snog = new SearchNameOnGoogle();
+        // snog.searchNameOnGoogle();
+
+        NestedFrames nf = new NestedFrames();
+        nf.nestedFrames();
+
         System.out.println("end Test case: testCase");
     }
 
