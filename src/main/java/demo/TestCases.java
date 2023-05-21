@@ -54,8 +54,11 @@ public class TestCases {
         // AlertPrompt ap = new AlertPrompt();
         // ap.alertPrompt();
 
-        IMDBRating ir = new IMDBRating();
-        ir.imdbRating();
+        // IMDBRating ir = new IMDBRating();
+        // ir.imdbRating();
+
+        WindowHandle wh = new WindowHandle();
+        wh.windowHandle();
 
         System.out.println("end Test case: testCase");
     }
